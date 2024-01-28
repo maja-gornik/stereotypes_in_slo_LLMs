@@ -1,0 +1,57 @@
+SL,Positive,Negative,Anger,Anticipation,Disgust,Fear,Joy,Sadness,Surprise,Trust
+vrhunski,1,0,0,1,0,0,0,0,0,1
+svoboden,1,0,0,0,0,0,1,0,0,1
+pozitiven,1,0,0,0,0,0,0,0,0,0
+dobrodošel,1,0,0,0,0,0,1,0,0,0
+fajn,1,0,0,0,0,0,0,0,0,0
+"kulturni, kulturen",1,0,0,0,0,0,0,0,0,0
+zmagati,1,0,0,1,0,0,1,0,0,0
+"motiviran, motivirati",1,0,0,1,0,0,1,0,0,1
+naklonjen,1,0,0,0,0,0,1,0,0,1
+nasilno,0,1,1,0,0,1,0,0,0,0
+žalostno,0,1,0,0,0,0,0,1,0,0
+smešno,1,0,0,0,0,0,1,0,1,0
+prijetno,1,0,0,0,0,0,0,0,0,1
+ogroženost,0,1,0,0,0,1,0,0,0,0
+ponosno,1,0,0,0,0,0,1,0,0,0
+napisati,0,0,0,0,0,0,0,0,0,0
+prepričljivo,1,0,0,0,0,0,0,0,0,1
+brezposelnost,0,1,0,0,0,1,0,1,0,0
+prilagojen,1,0,0,0,0,0,0,0,0,0
+grozno,0,1,1,0,1,1,0,1,0,0
+strašno,0,1,0,0,1,1,0,0,0,0
+profesionalen,1,0,0,0,0,0,0,0,0,1
+samostojen,0,0,0,0,0,0,0,0,0,0
+izobrazba,1,0,0,0,0,0,0,0,0,0
+uspešnost,1,0,0,1,0,0,1,0,0,0
+popularen,1,0,0,0,0,0,0,0,0,0
+rojen,0,0,0,0,0,0,0,0,0,0
+plačan,1,0,0,1,0,0,1,0,0,1
+zabavno,1,0,0,0,0,0,1,0,0,0
+usklajeni,0,0,0,0,0,0,0,0,0,1
+nenavadno,0,0,0,0,0,0,0,0,0,0
+prioriteta,0,0,0,0,0,0,0,0,0,0
+"inovativnost, inovativen",1,0,0,0,0,0,0,0,0,0
+negativno,0,1,0,0,0,0,0,1,0,0
+"kvaliteta, kvaliteten",0,0,0,0,0,0,0,0,0,0
+divje,0,1,0,0,0,0,0,0,1,0
+simpatičen,1,0,0,0,0,0,0,0,0,0
+šarmanten,1,0,0,0,0,0,1,0,0,0
+zlorabljati,0,1,1,0,1,1,0,1,0,0
+agresiven,0,1,1,0,0,1,0,0,0,0
+nerazumen,0,1,0,0,1,1,0,0,0,0
+problematičen,0,1,1,0,0,1,0,0,0,0
+vzoren,1,0,0,1,0,0,1,0,0,1
+terorističen,0,1,1,0,0,1,0,1,0,0
+složen,1,0,0,0,0,0,0,0,0,1
+"uspešni, uspešen",1,0,0,1,0,0,1,0,0,1
+zanimivi,1,0,0,0,0,0,0,0,0,0
+nezadovoljni,0,1,1,0,1,0,0,1,0,0
+butast,0,1,0,0,0,0,1,0,0,0
+nesposoben,0,1,0,0,0,0,0,0,0,0
+priden,1,0,0,0,0,0,0,0,0,1
+pobijati,0,1,1,0,1,1,0,1,1,0
+urejen,1,0,0,0,0,0,1,0,0,1
+privlačen,1,0,0,0,0,0,0,0,0,0
+grob,0,1,0,0,1,0,0,0,0,0
+močen,0,0,0,0,0,0,0,0,0,0
